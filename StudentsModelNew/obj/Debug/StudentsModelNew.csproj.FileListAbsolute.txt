@@ -1,0 +1,12 @@
+C:\Users\Danil\source\repos\medInfographics\StudentsModelNew\bin\Debug\StudentsModelNew.dll.config
+C:\Users\Danil\source\repos\medInfographics\StudentsModelNew\bin\Debug\StudentsModelNew.dll
+C:\Users\Danil\source\repos\medInfographics\StudentsModelNew\bin\Debug\StudentsModelNew.pdb
+C:\Users\Danil\source\repos\medInfographics\StudentsModelNew\bin\Debug\EntityFramework.dll
+C:\Users\Danil\source\repos\medInfographics\StudentsModelNew\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danil\source\repos\medInfographics\StudentsModelNew\bin\Debug\EntityFramework.xml
+C:\Users\Danil\source\repos\medInfographics\StudentsModelNew\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danil\source\repos\medInfographics\StudentsModelNew\obj\Debug\StudentsModelNew.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\medInfographics\StudentsModelNew\obj\Debug\StudentsModelNew.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\medInfographics\StudentsModelNew\obj\Debug\StudentsModelNew.csproj.CopyComplete
+C:\Users\Danil\source\repos\medInfographics\StudentsModelNew\obj\Debug\StudentsModelNew.dll
+C:\Users\Danil\source\repos\medInfographics\StudentsModelNew\obj\Debug\StudentsModelNew.pdb

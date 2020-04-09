@@ -1,0 +1,6 @@
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp3.0\StudentsAPI.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp3.0\StudentsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp3.0\StudentsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp3.0\StudentsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp3.0\StudentsAPI.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp3.0\StudentsAPI.AssemblyInfo.cs

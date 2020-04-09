@@ -1,0 +1,103 @@
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.dll.config
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.deps.json
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.runtimeconfig.json
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.dll
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.pdb
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.Views.dll
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.Views.pdb
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.dll.config
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.RazorAssemblyInfo.cache
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.RazorAssemblyInfo.cs
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.AssemblyInfo.cs
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.TagHelpers.input.cache
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.TagHelpers.output.cache
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.RazorCoreGenerate.cache
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Students\Index.g.cshtml.cs
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.RazorTargetAssemblyInfo.cs
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.Views.pdb
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.dll
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.pdb
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.csproj.CopyComplete
+C:\Users\Danil\source\repos\medInfographics\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.csprojAssemblyReference.cache
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.dll.config
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.deps.json
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.runtimeconfig.json
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.runtimeconfig.dev.json
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.dll
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.pdb
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.Views.dll
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.Views.pdb
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.csprojAssemblyReference.cache
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.dll.config
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.RazorAssemblyInfo.cache
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.RazorAssemblyInfo.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.AssemblyInfoInputs.cache
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.AssemblyInfo.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.TagHelpers.input.cache
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.TagHelpers.output.cache
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.RazorCoreGenerate.cache
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.RazorTargetAssemblyInfo.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.Views.pdb
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.dll
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.pdb
+C:\Users\anna2\OneDrive\Рабочий стол\projects\zvereva\one_of_the_last\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.csproj.CopyComplete
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.dll.config
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.deps.json
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.runtimeconfig.json
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.runtimeconfig.dev.json
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.dll
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.pdb
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.Views.dll
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\bin\Debug\netcoreapp2.1\StudentsAPI.Views.pdb
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.csprojAssemblyReference.cache
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.dll.config
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.RazorAssemblyInfo.cache
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.RazorAssemblyInfo.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.AssemblyInfoInputs.cache
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.AssemblyInfo.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.TagHelpers.input.cache
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.TagHelpers.output.cache
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.RazorCoreGenerate.cache
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.RazorTargetAssemblyInfo.cs
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.Views.pdb
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.dll
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.pdb
+C:\Users\anna2\OneDrive\Рабочий стол\projects\dvdv\studentsBack\StudentsAPI\obj\Debug\netcoreapp2.1\StudentsAPI.csproj.CopyComplete
